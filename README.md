@@ -8,7 +8,7 @@
 
 - 📫 How to reach me at: www.linkedin.com/in/blake-chobanian
 
-- 🧠 fun fact: I spent 7 years teaching math, physics, and engineering at the highschool level in the San Francisco Bay Area 
+- 🧠 fun fact: I spent 7 years teaching math, physics, and engineering at a title 1 highschool in the San Francisco Bay Area 
 
 <!---
 jchobanian/jchobanian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
