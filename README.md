@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Blake Chobanian  
+- 👋 Hi, I’m Blake Chobanian 
 
 - 👀 I’m interested in working with data to build strong communities and make the world a brighter more transparent place
 
